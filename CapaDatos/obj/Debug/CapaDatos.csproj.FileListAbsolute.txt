@@ -1,0 +1,41 @@
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\Zstandard.Net.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\bin\Debug\MySql.Data.xml
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\Google.Protobuf.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\Zstandard.Net.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\Renci.SshNet.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\bin\Debug\MySql.Data.xml
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaDatos\obj\Debug\CapaDatos.pdb

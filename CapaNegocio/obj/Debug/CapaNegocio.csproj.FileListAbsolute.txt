@@ -1,0 +1,46 @@
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\Zstandard.Net.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\Renci.SshNet.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\System.Buffers.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\System.Memory.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\bin\Debug\MySql.Data.xml
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\Google.Protobuf.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\Zstandard.Net.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\Renci.SshNet.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\System.Buffers.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\System.Memory.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\bin\Debug\MySql.Data.xml
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaNegocio\obj\Debug\CapaNegocio.pdb

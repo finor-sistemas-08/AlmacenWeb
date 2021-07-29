@@ -1,0 +1,154 @@
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\MySql.Data.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\Google.Protobuf.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\Zstandard.Net.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\Ubiety.Dns.Core.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\Renci.SshNet.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\System.Buffers.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\K4os.Compression.LZ4.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\K4os.Hash.xxHash.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\System.Memory.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\System.Numerics.Vectors.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\bin\MySql.Data.xml
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Cuebas\source\repos\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\csi.exe.config
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Console.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Net.Http.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\MySql.Data.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\Google.Protobuf.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\Zstandard.Net.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\BouncyCastle.Crypto.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\Ubiety.Dns.Core.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\Renci.SshNet.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\System.Buffers.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\K4os.Compression.LZ4.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\K4os.Hash.xxHash.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\System.Memory.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\System.Numerics.Vectors.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\bin\MySql.Data.xml
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Lunaf\source\repos\Proyecto ProductoCategoria\AlmacenWeb\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
